@@ -3,7 +3,7 @@
 **Должность: Аналитик / Стек**: Data Scientict ()
 
 ## Контакты
-- Email: seman77@mail.ru? sergbo77@gmail.com
+- Email: seman77@mail.ru, sergbo77@gmail.com
 - Telegram: @SergBo77
 
 ## Кратко обо мне
