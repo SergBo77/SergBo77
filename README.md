@@ -95,6 +95,7 @@ globus.ru
 Период обучения 12 июля — 10 сентября 2024
 
 [Полная версия резюме](https://github.com/SergBo77/SergBo77/blob/49271387d82e2d19df2e731b89cd638c7a698bb0/_%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%5BData%20Science%5D.pdf)
+
 [Портфолио](https//docs.google.com/presentation/d/1xlXTvOZvzpjISzlKz2tVttfHGgokoRaRFPp3x6KWtB8/edit?usp=sharing)
 <!--
 **SergBo77/SergBo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
